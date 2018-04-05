@@ -1,0 +1,36 @@
+{
+  "name": "becode-stats",
+  "version": "1.0.0",
+  "description": "Script Js and Node.js Server that retrieve Data from Google Sheet",
+  "main": "server.js",
+  "dependencies": {
+    "ejs": "^2.5.7",
+    "express": "^4.16.3",
+    "google-auth-library": "^0.12.0",
+    "googleapis": "^25.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "nodemon server.js",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thomGeenen/Becode-statistics.git"
+  },
+  "keywords": [
+    "becode",
+    "statistiques",
+    "becentral",
+    "real-time",
+    "data",
+    "data",
+    "real-time"
+  ],
+  "author": "Thomas Geenen (Becode.org)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/thomGeenen/Becode-statistics/issues"
+  },
+  "homepage": "https://github.com/thomGeenen/Becode-statistics#readme"
+}
